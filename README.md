@@ -12,22 +12,17 @@ Welcome to My Github page, Check out some of my projects 😁
 ######################################
 
 ## :heavy_check_mark: **Completed projects:** (from newest to oldest)
-######################################
-######################################
-######################################
-######################################
-######################################
-######################################
 
-THIS README IS A WORK IN PROGRESS THANKYOU FOR YOU PATIENCE
+ ***THIS README IS A WORK IN PROGRESS THANKYOU FOR YOU PATIENCE***
 
-######################################
-######################################
-######################################
-######################################
-######################################
-######################################
-######################################
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 Connect with me here:
 
