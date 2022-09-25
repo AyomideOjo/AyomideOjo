@@ -1,16 +1,14 @@
-### Hi there 👋
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-<!--
-**AyomideOjo/AyomideOjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 HELLO THERE 👋
 
-Here are some ideas to get you started:
+I'm Ayomide Ojo a student in Computer Science and Economics at McGill University
+Welcome to My Github page, Check out some of my projects 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+
+## :construction: **I'm currently working on:**
+
+I'm just 🧠⛈️ these days.
+
+## :heavy_check_mark: **Completed projects:** (from newest to oldest)
