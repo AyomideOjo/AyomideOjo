@@ -10,10 +10,6 @@ I'm Ayomide Ojo, a student in Computer Science and Economics at McGill Universit
 
 I'm deeply immersed in several exciting projects that span the realms of game development, algorithmic problem-solving, and exploring the intersections of computer science with physics concepts. Currently, I'm passionately crafting a Ludo Game, infusing it with engaging gameplay mechanics and sleek user interfaces. Beyond game development, I'm delving into the intricacies of Sudoku algorithms, leveraging algorithms and data structures to create efficient and elegant solutions. Additionally, I'm engaged in experimental projects that explore the application of physics principles in computer science, aiming to simulate real-world phenomena and enhance my understanding of computational physics. These endeavors not only challenge me intellectually but also fuel my curiosity to innovate and explore novel solutions within the realm of computer science.
 
-## :heavy_check_mark: **Completed projects:** (from newest to oldest)
-
- ***THIS README IS A WORK IN PROGRESS THANK YOU FOR YOUR PATIENCE***
-
 ## About Me
 
 - 🔭 I’m currently working on: Ludo Game
